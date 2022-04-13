@@ -10,7 +10,8 @@ d3.csv('../[PATH_TO_YOUR_DATA]', d3.autoType)
     /* SCALES */
     /** This is where you should define your scales from data to pixel space */
     
-
+// commenting out this code
+  
     /* HTML ELEMENTS */
     /** Select your container and append the visual elements to it */
 
